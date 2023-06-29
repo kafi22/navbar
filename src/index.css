@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@media (min-width: 768px) {
+  
+  .link-container {
+    height: auto!important;
+  
+  }
+}
